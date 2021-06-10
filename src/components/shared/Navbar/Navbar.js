@@ -222,6 +222,7 @@ function Navbar() {
             </div>
           </div>
           <div class="dropdown">
+              {/* A */}
             <button class="dropbtn">Jewellery</button>
             <div class="dropdown-content">
               <a href="#">Link 1</a>
